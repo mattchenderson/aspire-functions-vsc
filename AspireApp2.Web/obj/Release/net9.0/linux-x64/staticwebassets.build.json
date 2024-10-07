@@ -1,0 +1,1825 @@
+{
+  "Version": 1,
+  "Hash": "pphjd6vz6aKDFMM15zq4PjXc6xYbpm/+7y5sr1eSIcY=",
+  "Source": "AspireApp2.Web",
+  "BasePath": "_content/AspireApp2.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspireApp2.Web\\wwwroot",
+      "Source": "AspireApp2.Web",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\b56bdi2f2c-8inm30yfxf.gz",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "34pz1suzk0",
+      "Integrity": "45rnGALLaVVwRmmZxAlVhNE/dq8+hw73jaiN41ir3Gg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\n5qt3671v6-zivdg6gwmu.gz",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "AspireApp2.Web#[.{fingerprint=zivdg6gwmu}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\bundle\\AspireApp2.Web.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "73kddglmvq",
+      "Integrity": "DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\bundle\\AspireApp2.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\pgkx5y60t4-zivdg6gwmu.gz",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "AspireApp2.Web#[.{fingerprint=zivdg6gwmu}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\projectbundle\\AspireApp2.Web.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "73kddglmvq",
+      "Integrity": "DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\projectbundle\\AspireApp2.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\w8gglqe1jx-l3f55sgoz9.gz",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "app#[.{fingerprint=l3f55sgoz9}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "674up4fhto",
+      "Integrity": "Pha+4rnuwN/Bw2eMyWQ3WiZxh56Rox6paKtj72anoIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\xc4u0p1ciq-6gzpyzhau4.gz",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l1c7jbv9qh",
+      "Integrity": "uWdCx5Qg2HctXFDmFP63u84IFVOxHTT3n/SZl0+Djb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\bundle\\AspireApp2.Web.styles.css",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\bundle\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "AspireApp2.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "zivdg6gwmu",
+      "Integrity": "28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\bundle\\AspireApp2.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\projectbundle\\AspireApp2.Web.bundle.scp.css",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "AspireApp2.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "zivdg6gwmu",
+      "Integrity": "28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\projectbundle\\AspireApp2.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\app.css",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3f55sgoz9",
+      "Integrity": "Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\favicon.png",
+      "SourceId": "AspireApp2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp2.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\w8gglqe1jx-l3f55sgoz9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000702740689"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1422"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pha+4rnuwN/Bw2eMyWQ3WiZxh56Rox6paKtj72anoIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\w8gglqe1jx-l3f55sgoz9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pha+4rnuwN/Bw2eMyWQ3WiZxh56Rox6paKtj72anoIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pha+4rnuwN/Bw2eMyWQ3WiZxh56Rox6paKtj72anoIw="
+        }
+      ]
+    },
+    {
+      "Route": "app.l3f55sgoz9.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\w8gglqe1jx-l3f55sgoz9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000702740689"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1422"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pha+4rnuwN/Bw2eMyWQ3WiZxh56Rox6paKtj72anoIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3f55sgoz9"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA="
+        }
+      ]
+    },
+    {
+      "Route": "app.l3f55sgoz9.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3f55sgoz9"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tw+EOpPXcUvrFPnpUvv5RCLarNvmlr5L7ffQgwXR4kA="
+        }
+      ]
+    },
+    {
+      "Route": "app.l3f55sgoz9.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\w8gglqe1jx-l3f55sgoz9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pha+4rnuwN/Bw2eMyWQ3WiZxh56Rox6paKtj72anoIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3f55sgoz9"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pha+4rnuwN/Bw2eMyWQ3WiZxh56Rox6paKtj72anoIw="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\pgkx5y60t4-zivdg6gwmu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000578034682"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\projectbundle\\AspireApp2.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\pgkx5y60t4-zivdg6gwmu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.styles.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\n5qt3671v6-zivdg6gwmu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000578034682"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.styles.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\bundle\\AspireApp2.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.styles.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\n5qt3671v6-zivdg6gwmu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.zivdg6gwmu.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\pgkx5y60t4-zivdg6gwmu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000578034682"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zivdg6gwmu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp2.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.zivdg6gwmu.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\projectbundle\\AspireApp2.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zivdg6gwmu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp2.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.zivdg6gwmu.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\pgkx5y60t4-zivdg6gwmu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zivdg6gwmu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp2.Web.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.zivdg6gwmu.styles.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\n5qt3671v6-zivdg6gwmu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000578034682"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zivdg6gwmu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp2.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.zivdg6gwmu.styles.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\scopedcss\\bundle\\AspireApp2.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zivdg6gwmu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp2.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-28gKG/9MiBgYh2c/XfVhNq1SLr0RZez/y7TBzSNPE6g="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp2.Web.zivdg6gwmu.styles.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\n5qt3671v6-zivdg6gwmu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 21:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zivdg6gwmu"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp2.Web.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRwyoAhF4aSoAKaQ16YbHf4k+PhJeBC37NY7yvDGRpM="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\xc4u0p1ciq-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041897101"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23867"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uWdCx5Qg2HctXFDmFP63u84IFVOxHTT3n/SZl0+Djb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\xc4u0p1ciq-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uWdCx5Qg2HctXFDmFP63u84IFVOxHTT3n/SZl0+Djb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uWdCx5Qg2HctXFDmFP63u84IFVOxHTT3n/SZl0+Djb4="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\xc4u0p1ciq-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041897101"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23867"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uWdCx5Qg2HctXFDmFP63u84IFVOxHTT3n/SZl0+Djb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\b56bdi2f2c-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013372202"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74781"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45rnGALLaVVwRmmZxAlVhNE/dq8+hw73jaiN41ir3Gg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\b56bdi2f2c-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-gzip"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45rnGALLaVVwRmmZxAlVhNE/dq8+hw73jaiN41ir3Gg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-45rnGALLaVVwRmmZxAlVhNE/dq8+hw73jaiN41ir3Gg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\xc4u0p1ciq-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uWdCx5Qg2HctXFDmFP63u84IFVOxHTT3n/SZl0+Djb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uWdCx5Qg2HctXFDmFP63u84IFVOxHTT3n/SZl0+Djb4="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\b56bdi2f2c-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013372202"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74781"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45rnGALLaVVwRmmZxAlVhNE/dq8+hw73jaiN41ir3Gg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\obj\\Release\\net9.0\\linux-x64\\compressed\\b56bdi2f2c-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-gzip"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45rnGALLaVVwRmmZxAlVhNE/dq8+hw73jaiN41ir3Gg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-45rnGALLaVVwRmmZxAlVhNE/dq8+hw73jaiN41ir3Gg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\mahender\\source\\repos\\AspireApp2\\AspireApp2.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Oct 2024 01:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
